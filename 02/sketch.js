@@ -11,7 +11,7 @@ var bt = 40; //base del triangulo rectangulo
 var n = 0;
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(18*x, 18*y);
   background(250);
   fill(250);
   noStroke();
