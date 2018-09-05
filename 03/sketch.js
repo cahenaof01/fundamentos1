@@ -23,7 +23,7 @@ function setup() {
 
   createCanvas(2600, 1600);
 
-  frameRate(20);
+  frameRate(25);
 	
 
 
@@ -33,7 +33,7 @@ function draw() {
   background(255);
 	fill(0)
   textSize(80);
-  text(frameCount, 30, 70);
+  //text(frameCount, 30, 70);
   noStroke()
 
 
