@@ -23,7 +23,7 @@ function setup() {
 
   createCanvas(2600, 1600);
 
-  frameRate(1);
+  frameRate(20);
 	
 
 
