@@ -6,3 +6,4 @@ MDIS
 3. [Movimiento](https://cahenaof01.github.io/fundamentos1/03)
 4. [Herramienta de dibujo](https://cahenaof01.github.io/fundamentos1/04)
 5. [Tiempo](https://cahenaof01.github.io/fundamentos1/05)
+6. [Musical](https://cahenaof01.github.io/fundamentos1/06)
