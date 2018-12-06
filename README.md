@@ -9,3 +9,7 @@ MDIS
 6. [Musical](https://cahenaof01.github.io/fundamentos1/06)
 7. [Arreglos](https://cahenaof01.github.io/fundamentos1/07)
 8. [Video1](https://cahenaof01.github.io/fundamentos1/Video01)
+9. [Video2](https://cahenaof01.github.io/fundamentos1/Video02)
+10. [Video3](https://cahenaof01.github.io/fundamentos1/Video03)
+11. [Video4](https://cahenaof01.github.io/fundamentos1/Video04)
+
