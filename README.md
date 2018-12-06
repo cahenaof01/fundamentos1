@@ -8,3 +8,4 @@ MDIS
 5. [Tiempo](https://cahenaof01.github.io/fundamentos1/05)
 6. [Musical](https://cahenaof01.github.io/fundamentos1/06)
 7. [Arreglos](https://cahenaof01.github.io/fundamentos1/07)
+8. [Video1](https://cahenaof01.github.io/fundamentos1/Video01)
